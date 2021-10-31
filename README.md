@@ -3,7 +3,9 @@ GAN for generating pokemon sprites
 
 ## Quickstart:
 
-In a virtual environment with Python 3.7+, install everything in `requirements.txt`. Then, run `test.py`
+In a virtual environment with Python 3.7+, install everything in `requirements.txt`. Then, run `generate.py`
+change num_of_imgs variable in generate.py value to change the generated number of images.
+
 
 # Samples:
 
